@@ -1,3 +1,8 @@
+/*
+This program was written by the FTC KTM #12529 team . 
+  
+   @author Kolpakov Egor
+*/
 package org.firstinspires.ftc.teamcode.AutoOPs;
 
 import com.qualcomm.hardware.bosch.BNO055IMU;
